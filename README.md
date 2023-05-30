@@ -6,5 +6,6 @@ A implementation of the first Ant Colony Optimization (ACO) algorithm, Ant Syste
 - data contains used tsp example from TSPLIB.
 
 # Python environment
-Numpy
-Matplotlib
+
+- Numpy
+- Matplotlib
